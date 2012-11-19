@@ -31,6 +31,7 @@ import multilayersperceptronlib.utility.ImageProcessing;
 import multilayersperceptronlib.utility.ImageProcessingBW;
 
 
+/** Pattern recognition of characters (OCR) */
 public class PatternRecognitionTest
 {
 
