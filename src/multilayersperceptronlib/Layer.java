@@ -22,10 +22,10 @@ public class Layer
 	public int 		Length;
 	
 	/**
-	 * Layer di neuroni
+	 * Layer of Neurons
 	 * 
-	 * @param l Dimensione del layer
-	 * @param prev Dimensione del layer precedente
+	 * @param l Layer Size
+	 * @param prev Size of the previous layer
 	 */
 	public Layer(int l, int prev)
 	{
